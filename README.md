@@ -1,1 +1,1 @@
-Just follow the trails.pnyb it will work
+Just follow the trails.ipynb it will work
